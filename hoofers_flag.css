@@ -1,0 +1,33 @@
+#lake .current-flag.green {
+    background-image: url('images/GreenFlag.png');
+	background-repeat: no-repeat;
+}
+#lake .current-flag.green-yellow {
+    background-image:url('images/GreenYellowFlag.png');
+	background-repeat: no-repeat;
+}
+#lake .current-flag.blue {
+    background-image:url('images/BlueFlag.png');
+	background-repeat: no-repeat;
+}
+#lake .current-flag.blue-yellow {
+    background-image:url('images/BlueYellowFlag.png');
+	background-repeat: no-repeat;
+}
+#lake .current-flag.blue-red {
+    background-image:url('images/BlueRedFlag.png');
+	background-repeat: no-repeat;
+}
+#lake .current-flag.red {
+    background-image:url('images/RedFlag.png');
+	background-repeat: no-repeat;
+}
+#lake .current-flag.none {
+    background-image:url('images/Closed.png');
+	background-repeat: no-repeat;
+}
+
+#lake .current-flag {
+    height: 250px;
+    width: auto;
+}
